@@ -1,9 +1,5 @@
-remote_theme: daviddarnes/alembic@main
-plugins:
-- jekyll-remote-theme
-
-title: Jeremy Howard
-description: Some basic examples of client interfaces to a computer vision API
-
-author:
-  name: Jeremy Howard
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
