@@ -4,6 +4,7 @@
 # google_analytics:
 # theme: jekyll-theme-cayman
 
+# remote_theme: daviddarnes/alembic@main
 remote_theme: daviddarnes/alembic@main
 plugins:
 - jekyll-theme-cayman
