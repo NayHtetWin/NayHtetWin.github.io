@@ -6,7 +6,7 @@
 
 remote_theme: daviddarnes/alembic@main
 plugins:
-- jekyll-remote-theme
+- ekyll-theme-cayman
 
 title: Nay
 description: Some basic examples of client interfaces to a computer vision API
