@@ -1,5 +1,15 @@
-title: Testing Projects
-description: Of Nay
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-cayman
+# title: Testing Projects
+# description: Of Nay
+# show_downloads: false
+# google_analytics:
+# theme: jekyll-theme-cayman
+
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Nay
+description: Some basic examples of client interfaces to a computer vision API
+
+author:
+  name: Jeremy Howard
